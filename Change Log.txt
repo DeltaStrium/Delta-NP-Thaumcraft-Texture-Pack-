@@ -1,0 +1,5 @@
+ChangeLog:
+v1.1
+Updated to support Thaumcraft 4 for 1.7.10 MC
+V1.0
+Initial Converted release for 1.6.4
